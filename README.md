@@ -2,4 +2,4 @@
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](Coffee%20dashboard_105017.png)
+![Coffee Shop Sales Dashboard](Coffee%20dashboard_044611.png)
